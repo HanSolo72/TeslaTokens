@@ -1,0 +1,6 @@
+Welcome=Willkommen bei TeslaTokens. Dieses Script liest die Zugriffs-Token Ihres TESLA-Fahrzeuges aus.
+Introduction=Nachdem Sie OK gedrückt haben, wird das Anmeldefenster von TESLA in Ihrem Webbrowser geöffnet. Bitte melden Sie sich dort an.
+InputCode=Nachdem Sie angemeldet sind, erscheint "Page Not Found", es ist aber alles in Ordnung. Kopieren Sie bitte die URL-Zeile aus Ihrem Webbrowser und fügen Sie sie hier ein:
+Success=Ihre Token wurden erfolgreich ausgelesen und befinden sich in der Datei ###. Im Anschluss wird diese Datei in Ihrem Editor geöffnet.
+Error=Die TESLA-Website hat den Status-Code ### zurückgegeben. Ihre Token konnten nicht ausgelesen werden.
+HeaderTokenFile=Ihre ausgelesen Access- und Refresh-Token (###):
